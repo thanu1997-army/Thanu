@@ -1,5 +1,4 @@
-# Thanu
-Web development practice repo – HTML, CSS, JavaScript examples and projects
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
